@@ -1,0 +1,7 @@
+C:\Users\Vadim\source\repos\HomeTask2Array\HomeTask2Array\bin\Debug\HomeTask2Array.exe.config
+C:\Users\Vadim\source\repos\HomeTask2Array\HomeTask2Array\bin\Debug\HomeTask2Array.exe
+C:\Users\Vadim\source\repos\HomeTask2Array\HomeTask2Array\bin\Debug\HomeTask2Array.pdb
+C:\Users\Vadim\source\repos\HomeTask2Array\HomeTask2Array\obj\Debug\HomeTask2Array.csprojAssemblyReference.cache
+C:\Users\Vadim\source\repos\HomeTask2Array\HomeTask2Array\obj\Debug\HomeTask2Array.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\HomeTask2Array\HomeTask2Array\obj\Debug\HomeTask2Array.exe
+C:\Users\Vadim\source\repos\HomeTask2Array\HomeTask2Array\obj\Debug\HomeTask2Array.pdb
